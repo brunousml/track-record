@@ -14,7 +14,7 @@ python3 -m http.server 8765      # ou abra index.html direto no browser
 
 ## Publicação (GitHub Pages)
 
-Site de projeto servido a partir da branch `main`, pasta raiz: https://brunousml.github.io/trajetoria/
+Site de projeto servido a partir da branch `main`, pasta raiz: https://brunousml.github.io/track-record/
 
 - Antes de cada push, rode `python3 build.py` e inclua o `data.js` no commit (o site lê só esse arquivo).
 - Este repositório é público: não coloque aqui PII (endereço, telefone, e-mail, pretensão) nem contatos de recrutadores.
