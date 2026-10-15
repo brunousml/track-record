@@ -1,0 +1,12 @@
+{
+  "name": "Bruno Melo",
+  "headline": {"pt": "Staff Software Engineer · Platform Engineering e Developer Experience", "en": "Staff Software Engineer · Platform Engineering and Developer Experience"},
+  "intro": {
+    "pt": "Fazer o time de engenharia entregar melhor: pipelines, quality gates, arquitetura de referência, métricas de entrega e IA no ciclo de desenvolvimento. Mais de 10 anos de estrada, com base full-stack.",
+    "en": "Helping engineering teams ship better: pipelines, quality gates, reference architecture, delivery metrics and AI in the development lifecycle. 10+ years of experience, with a full-stack foundation."
+  },
+  "links": [
+    {"label": "LinkedIn", "url": "https://www.linkedin.com/in/brunousml"},
+    {"label": "GitHub", "url": "https://github.com/brunousml"}
+  ]
+}

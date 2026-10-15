@@ -1,0 +1,10 @@
+{
+  "id": "artigo", "type": "milestone", "weight": 3, "start": "2026-10", "end": "2026-10",
+  "title": {"pt": "Artigo: De releases para entrega contínua", "en": "Article: From releases to continuous delivery"},
+  "org": "LinkedIn",
+  "summary": {
+    "pt": "O que realmente muda ao sair de releases para entrega contínua, a partir da experiência na Zig.",
+    "en": "What really changes when moving from releases to continuous delivery, drawn from the experience at Zig. (Article in Portuguese.)"
+  },
+  "links": [{"label": {"pt": "Ler o artigo", "en": "Read the article"}, "url": "https://www.linkedin.com/pulse/de-releases-para-entrega-contínua-o-que-realmente-muda-bruno-melo-pwfhc"}]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "ufpa", "type": "edu", "weight": 1, "start": "2009", "end": "2010", "precision": "year",
+  "title": {"pt": "Especialização em Gerência de Projetos de Software", "en": "Specialization in Software Project Management"},
+  "org": "UFPA",
+  "summary": {"pt": "Universidade Federal do Pará.", "en": "Federal University of Pará."}
+}

@@ -1,0 +1,34 @@
+{
+  "id": "brasil-ct",
+  "type": "work",
+  "weight": 1,
+  "start": "2012-03",
+  "end": "2012-10",
+  "title": {
+    "pt": "Back End Developer",
+    "en": "Back End Developer"
+  },
+  "org": "Brasil/CT",
+  "place": {
+    "pt": "Rio de Janeiro",
+    "en": "Rio de Janeiro"
+  },
+  "summary": {
+    "pt": "Ferramenta de fulfillment para aplicação bancária em LAMP.",
+    "en": "Fulfillment tool for a banking application on LAMP."
+  },
+  "did": {
+    "pt": [
+      "Ferramenta de fulfillment para aplicação bancária em LAMP (Linux, Apache, MySQL, PHP) com Symfony e Doctrine."
+    ],
+    "en": [
+      "Banking fulfillment tool on the LAMP stack (Linux, Apache, MySQL, PHP) with Symfony and Doctrine."
+    ]
+  },
+  "stack": [
+    "PHP",
+    "MySQL",
+    "Symfony",
+    "Doctrine"
+  ]
+}

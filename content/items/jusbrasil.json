@@ -1,0 +1,26 @@
+{
+  "id": "jusbrasil", "type": "work", "weight": 3, "start": "2022-02", "end": "2024-01",
+  "title": {"pt": "Software Engineer", "en": "Software Engineer"},
+  "org": "Jusbrasil", "place": {"pt": "Remoto", "en": "Remote"},
+  "summary": {
+    "pt": "Aplicações web de back-office e entrega de ponta a ponta em Kubernetes no GCP.",
+    "en": "Back-office web applications and end-to-end delivery on Kubernetes in GCP."
+  },
+  "did": {
+    "pt": [
+      "Responsável de ponta a ponta por entrega, monitoramento e suporte de aplicações legadas e novas em contêineres no Kubernetes (Google Cloud Platform).",
+      "Projetei e desenvolvi aplicações web de back-office com Node.js, Next.js, React, micro-frontends e design system.",
+      "Promovi boas práticas de CI/CD com GitHub Actions (build, teste e deploy).",
+      "Participei da migração de pipelines de ingestão de dados da AWS para o GCP com o time de Data Platform.",
+      "Implementei frameworks de teste A/B para apoiar hipóteses de produto."
+    ],
+    "en": [
+      "Owned end-to-end delivery, monitoring and support of legacy and new applications in containers on Kubernetes (Google Cloud Platform).",
+      "Designed and developed back-office web applications with Node.js, Next.js, React, micro-frontends and a design system.",
+      "Championed CI/CD best practices with GitHub Actions (build, test and deploy).",
+      "Took part in migrating data ingestion pipelines from AWS to GCP with the Data Platform team.",
+      "Implemented A/B testing frameworks to support product hypotheses."
+    ]
+  },
+  "stack": ["Node.js", "Next.js", "React", "Kubernetes", "GCP", "GitHub Actions"]
+}

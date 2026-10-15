@@ -1,0 +1,6 @@
+{
+  "id": "mba", "type": "edu", "weight": 3, "start": "2025-12", "end": "2026-12", "ongoing": true,
+  "title": {"pt": "MBA em Software Engineering with AI", "en": "MBA in Software Engineering with AI"},
+  "org": "Full Cycle",
+  "summary": {"pt": "Formação em engenharia de software com IA, em andamento.", "en": "Software engineering with AI, in progress."}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cesar", "type": "work", "weight": 2, "start": "2019-10", "end": "2022-01",
+  "title": {"pt": "Software Engineer", "en": "Software Engineer"},
+  "org": "CESAR", "place": {"pt": "Remoto", "en": "Remote"},
+  "summary": {
+    "pt": "Desenvolvimento full-stack em projetos de clientes, em times ágeis.",
+    "en": "Full-stack development on client projects, in agile teams."
+  },
+  "did": {
+    "pt": ["Projetei e implementei funcionalidades em projetos de clientes.", "Revisei código.", "Mantive processos de teste em times ágeis."],
+    "en": ["Designed and implemented features on client projects.", "Reviewed code.", "Maintained testing processes in agile teams."]
+  },
+  "stack": ["React", "JavaScript"]
+}

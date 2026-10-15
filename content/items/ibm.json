@@ -1,0 +1,22 @@
+{
+  "id": "ibm", "type": "work", "weight": 2, "start": "2017-07", "end": "2019-09",
+  "title": {"pt": "Full-stack Developer", "en": "Full-stack Developer"},
+  "org": "IBM", "place": {"pt": "São Paulo", "en": "São Paulo"},
+  "summary": {
+    "pt": "Ferramentas com IA para contratos e modelos de ciência de dados em produção na nuvem.",
+    "en": "AI tools for contract management and data science models in production on the cloud."
+  },
+  "did": {
+    "pt": [
+      "Desenvolvi ferramentas com IA (IBM Watson, Processamento de Linguagem Natural) para gestão do ciclo de vida de contratos, em times multidisciplinares e internacionais.",
+      "Levei modelos de ciência de dados para produção em sistemas cloud-native com Docker e Kubernetes na IBM Cloud, APIs REST (Python, Flask), filas (Celery, RabbitMQ) e NoSQL.",
+      "Estabeleci pipelines de CI/CD para automatizar testes, deploy e monitoramento, viabilizando deploys diários."
+    ],
+    "en": [
+      "Developed AI tools (IBM Watson, Natural Language Processing) for contract lifecycle management, in multidisciplinary, international teams.",
+      "Took data science models to production in cloud-native systems with Docker and Kubernetes on IBM Cloud, REST APIs (Python, Flask), message queues (Celery, RabbitMQ) and NoSQL.",
+      "Set up CI/CD pipelines to automate testing, deployment and monitoring, enabling daily deploys."
+    ]
+  },
+  "stack": ["Python", "Flask", "Celery", "RabbitMQ", "Docker", "Kubernetes", "IBM Cloud", "IBM Watson"]
+}

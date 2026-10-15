@@ -1,0 +1,33 @@
+{
+  "id": "bondofertas",
+  "type": "work",
+  "weight": 1,
+  "start": "2011-03",
+  "end": "2012-02",
+  "title": {
+    "pt": "Full Stack Engineer",
+    "en": "Full Stack Engineer"
+  },
+  "org": "BondOfertas",
+  "place": {
+    "pt": "Belém",
+    "en": "Belém"
+  },
+  "summary": {
+    "pt": "Backend em PHP com CodeIgniter em um produto white-label.",
+    "en": "PHP backend with CodeIgniter on a white-label product."
+  },
+  "did": {
+    "pt": [
+      "Backend com PHP, MySQL e CodeIgniter em produto white-label."
+    ],
+    "en": [
+      "Backend with PHP, MySQL and CodeIgniter on a white-label product."
+    ]
+  },
+  "stack": [
+    "PHP",
+    "MySQL",
+    "CodeIgniter"
+  ]
+}

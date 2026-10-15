@@ -1,0 +1,28 @@
+{
+  "id": "digital-factory",
+  "type": "work",
+  "weight": 1,
+  "start": "2015-09",
+  "end": "2017-06",
+  "title": {
+    "pt": "Full Stack Developer",
+    "en": "Full Stack Developer"
+  },
+  "org": "Digital Factory (freelancer)",
+  "place": {
+    "pt": "Remoto",
+    "en": "Remote"
+  },
+  "summary": {
+    "pt": "Aplicações web de ponta a ponta para clientes, incluindo uma API de pagamentos.",
+    "en": "End-to-end web applications for clients, including a payments API."
+  },
+  "did": {
+    "pt": [
+      "Entreguei aplicações web de ponta a ponta para diferentes clientes, incluindo uma API de pagamentos integrando aplicações internas a gateways de terceiros."
+    ],
+    "en": [
+      "Delivered web applications end to end for different clients, including a payment API integrating internal applications with third-party payment gateways."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sieve",
+  "type": "work",
+  "weight": 1,
+  "start": "2013-01",
+  "end": "2013-06",
+  "title": {
+    "pt": "Full Stack Engineer",
+    "en": "Full Stack Engineer"
+  },
+  "org": "Sieve",
+  "summary": {
+    "pt": "Migração de um backend legado em PHP para Python e Django.",
+    "en": "Migration of a legacy PHP backend to Python and Django."
+  },
+  "did": {
+    "pt": [
+      "Migração de backend legado em PHP para Python e Django (APIs com Tastypie), com MySQL e front-end em JavaScript."
+    ],
+    "en": [
+      "Migrated a legacy PHP backend to Python and Django (Tastypie APIs), with MySQL and JavaScript front ends."
+    ]
+  },
+  "stack": [
+    "PHP",
+    "Python",
+    "Django",
+    "MySQL",
+    "JavaScript"
+  ]
+}

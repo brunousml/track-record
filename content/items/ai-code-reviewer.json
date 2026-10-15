@@ -1,0 +1,11 @@
+{
+  "id": "ai-code-reviewer", "type": "milestone", "weight": 3, "start": "2026", "end": "2026", "precision": "year",
+  "title": {"pt": "ai-code-reviewer (código aberto)", "en": "ai-code-reviewer (open source)"},
+  "org": "GitHub",
+  "summary": {
+    "pt": "Agente de code review com LLM para a pipeline: só comenta, não altera código. Agnóstico de provedor (OpenAI e Gemini).",
+    "en": "LLM code review agent for the pipeline: it only comments, never changes code. Provider-agnostic (OpenAI and Gemini)."
+  },
+  "stack": ["Python", "GitLab", "OpenAI", "Gemini"],
+  "links": [{"label": {"pt": "Repositório", "en": "Repository"}, "url": "https://github.com/brunousml/ai-code-reviewer"}]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ilia", "type": "work", "weight": 4, "start": "2024-05", "end": "2025-07",
+  "title": {"pt": "Software Engineer | Platform Engineer | Developer Experience", "en": "Software Engineer | Platform Engineer | Developer Experience"},
+  "org": "ília", "place": {"pt": "Remoto", "en": "Remote"},
+  "summary": {
+    "pt": "Qualidade e automação de testes tratadas como plataforma, em pipelines GitLab.",
+    "en": "Quality and test automation treated as a platform, on GitLab pipelines."
+  },
+  "did": {
+    "pt": [
+      "Liderança técnica e decisões de arquitetura voltadas a escalabilidade e manutenibilidade.",
+      "Projetei e mantive uma ferramenta em Node.js/TypeScript que integra o pipeline de testes a uma device farm externa (LambdaTest), trabalhando direto com o time do fornecedor.",
+      "Implementei quality gates nos pipelines de GitLab CI/CD e integrei o SonarQube para reduzir débito técnico.",
+      "Construí frameworks de testes automatizados (unitários, integração, ponta a ponta); introduzi testes de contrato com Pact e testes de mutação.",
+      "Desenvolvi processos de ETL em Node.js que transformam dados em scorecards de engenharia."
+    ],
+    "en": [
+      "Technical leadership and architecture decisions focused on scalability and maintainability.",
+      "Designed and maintained a Node.js/TypeScript tool that connects the test pipeline to an external device farm (LambdaTest), working directly with the vendor's team.",
+      "Implemented quality gates in GitLab CI/CD pipelines and integrated SonarQube to reduce technical debt.",
+      "Built automated testing frameworks (unit, integration, end-to-end); introduced contract testing with Pact and mutation testing.",
+      "Engineered Node.js ETL processes that turn data into engineering scorecards."
+    ]
+  },
+  "stack": ["Node.js", "TypeScript", "Python", "GitLab CI/CD", "SonarQube", "Pact", "LambdaTest"]
+}

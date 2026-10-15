@@ -1,0 +1,28 @@
+{
+  "id": "descomplica",
+  "type": "work",
+  "weight": 1,
+  "start": "2014-11",
+  "end": "2015-05",
+  "title": {
+    "pt": "Full-stack Developer",
+    "en": "Full-stack Developer"
+  },
+  "org": "Descomplica",
+  "summary": {
+    "pt": "APIs REST no Microsoft Azure, com Service Bus e front-end em AngularJS.",
+    "en": "REST APIs on Microsoft Azure, with Service Bus and an AngularJS front end."
+  },
+  "did": {
+    "pt": [
+      "APIs REST (MVC) no Microsoft Azure, integração com Azure Service Bus entre sistemas distribuídos e front-end com AngularJS."
+    ],
+    "en": [
+      "Built RESTful Web APIs (MVC) on Microsoft Azure, integrated Azure Service Bus between distributed systems, and developed front ends with AngularJS."
+    ]
+  },
+  "stack": [
+    "Azure",
+    "AngularJS"
+  ]
+}

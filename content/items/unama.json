@@ -1,0 +1,6 @@
+{
+  "id": "unama", "type": "edu", "weight": 1, "start": "2005", "end": "2007", "precision": "year",
+  "title": {"pt": "Curso Superior em Desenvolvimento de Sistemas e Software", "en": "Undergraduate degree in Systems and Software Development"},
+  "org": "UNAMA",
+  "summary": {"pt": "Universidade da Amazônia.", "en": "Universidade da Amazônia."}
+}
